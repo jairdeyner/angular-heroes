@@ -8,7 +8,7 @@ export interface Heroe {
   alt_img?: string;
 }
 
-enum Publisher {
+export enum Publisher {
   DCComics = 'DC Comics',
   MarvelComics = 'Marvel Comics',
 }
